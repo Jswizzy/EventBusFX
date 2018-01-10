@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EventBusFX.iml" filepath="$PROJECT_DIR$/.idea/modules/EventBusFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EventBusFX_main.iml" filepath="$PROJECT_DIR$/.idea/modules/EventBusFX_main.iml" group="EventBusFX" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EventBusFX_test.iml" filepath="$PROJECT_DIR$/.idea/modules/EventBusFX_test.iml" group="EventBusFX" />
+    </modules>
+  </component>
+</project>
